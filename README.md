@@ -13,3 +13,12 @@ Trained on **Jigsaw Unintended Bias in Toxicity Classification** dataset
 ```bash
 git clone https://github.com/yourusername/bert-toxicity-detector.git
 cd bert-toxicity-detector
+```
+### **2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### **3️⃣ Run the Model
+```bash
+python main.py
+```
